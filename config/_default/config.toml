@@ -21,7 +21,7 @@ copyright = "&copy; MDM Lab {year}"
 ############################
 
 # Get last modified date for content from Git?
-enableGitInfo = True
+enableGitInfo = true
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
