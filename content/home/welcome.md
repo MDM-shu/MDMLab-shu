@@ -6,8 +6,8 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
-subtitle: ""
+title: "Mathematical Data Mining Lab"
+subtitle: "Introduction"
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -17,4 +17,5 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+**This is a test page for MDMLab homepage which could update anytime.**
+The Mathematical Data Mining Lab (MDM Lab) is led by Prof. Yaxin Peng at [Department of Mathematics](http://www.shu.edu.cn), Shanghai University (SHU,上海大学). 
